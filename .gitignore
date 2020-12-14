@@ -1,0 +1,7 @@
+.merlin
+/lib/bs
+/lib/js/test
+/lib/ocaml
+.direnv/
+_build/
+result

@@ -1,0 +1,5 @@
+align-cases = true
+align-constructors-decl = true
+align-variants-decl = true
+break-cases = toplevel
+type-decl = sparse

@@ -1,0 +1,20 @@
+{
+  "coc.preferences.jumpCommand": "drop",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "ocaml"
+  ],
+  "languageserver": {
+    "ocaml-lsp": {
+      "command": "ocamllsp",
+      "filetypes": [
+        "ocaml"
+      ]
+    },
+    "nix": {
+      "command": "rnix-lsp",
+      "filetypes": [
+        "nix"
+      ]
+    }
+  }
+}

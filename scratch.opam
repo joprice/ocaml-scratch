@@ -1,0 +1,9 @@
+opam-version: "2.0"
+depends: [
+  "ocamlformat" {build}
+  "utop" {build}
+  "ppx_deriving"
+]
+build: [
+  ["dune" "build" "-p" name "-j" jobs]
+]

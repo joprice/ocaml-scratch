@@ -1,0 +1,7 @@
+(env
+ (_
+  (flags
+   (:standard -w @A-42-44-48-45-4 -unboxed-types -short-paths))))
+
+; re-enable when 2.x works
+; (dirs bin)
