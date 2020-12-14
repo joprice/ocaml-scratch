@@ -17,5 +17,6 @@ stdenv.mkDerivation {
     ocamlformat
     utop
     ppx_deriving
+    ocaml
   ];
 }

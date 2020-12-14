@@ -1,2 +1,2 @@
-run:
-	dune exec bin/main.exe
+build:
+	nix-shell --run "dune build bin/main.exe"
